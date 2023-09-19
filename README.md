@@ -1,2 +1,2 @@
 # tictactoe-project
-Projet d'entraînemnt
+Projet d'entraînement
